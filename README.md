@@ -161,38 +161,31 @@ Additionally, I actively architect **Agentic AI & GenAIOps** workflows — imple
 
 ---
 
-### 🛡️ [Azure Zero-Trust Enterprise Landing Zone](https://github.com/anujsri192/azure-enterprise-terraform-modules)
-[![Azure Landing Zone](https://img.shields.io/badge/Azure%20Landing%20Zone-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://github.com/anujsri192/azure-enterprise-terraform-modules) [![Zero Trust](https://img.shields.io/badge/Zero%20Trust-DC143C?style=flat-square)](https://github.com/anujsri192/azure-enterprise-terraform-modules) [![CAF Framework](https://img.shields.io/badge/Cloud%20Adoption%20Framework-00C853?style=flat-square)](https://github.com/anujsri192/azure-enterprise-terraform-modules)
+### 🛡️ [Azure Enterprise-Scale Landing Zones (CAF)](https://github.com/anujsri192/azure-enterprise-landing-zones)
+[![Azure Landing Zone](https://img.shields.io/badge/Azure%20Landing%20Zone-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://github.com/anujsri192/azure-enterprise-landing-zones) [![CAF Framework](https://img.shields.io/badge/Cloud%20Adoption%20Framework-00C853?style=flat-square)](https://github.com/anujsri192/azure-enterprise-landing-zones) [![Firewall Premium](https://img.shields.io/badge/Firewall%20Premium%20IDPS-DC143C?style=flat-square)](https://github.com/anujsri192/azure-enterprise-landing-zones) [![Hub-and-Spoke](https://img.shields.io/badge/Hub--and--Spoke-FF6F00?style=flat-square)](https://github.com/anujsri192/azure-enterprise-landing-zones)
 
-> Production-ready Azure Landing Zone aligned with the Microsoft Cloud Adoption Framework (CAF) — Hub-and-Spoke topology, Azure Firewall Premium with IDPS inspection, Azure Bastion, Private DNS Zones, Privileged Identity Management (PIM), and automated Azure Policy guardrails enforcing NIST SP 800-53 and CIS benchmarks.
-
----
-
-### ☸️ [Kubernetes (AKS) Production GitOps Platform](https://github.com/anujsri192/azure-enterprise-terraform-modules)
-[![Kubernetes AKS](https://img.shields.io/badge/Kubernetes%20AKS-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/anujsri192/azure-enterprise-terraform-modules) [![ArgoCD GitOps](https://img.shields.io/badge/ArgoCD%20GitOps-EF7B4D?style=flat-square&logo=argo&logoColor=white)](https://github.com/anujsri192/azure-enterprise-terraform-modules) [![Helm v3](https://img.shields.io/badge/Helm%20v3-0F1689?style=flat-square&logo=helm&logoColor=white)](https://github.com/anujsri192/azure-enterprise-terraform-modules)
-
-> Production-hardened Azure Kubernetes Service cluster architecture — NGINX Ingress Controller with cert-manager for automated TLS, Cilium/Calico network micro-segmentation, Pod Disruption Budgets, HPA/VPA autoscaling, Kyverno policy controls, and continuous deployment via ArgoCD ApplicationSets.
+> Production-ready Azure Landing Zone aligned with the Microsoft Cloud Adoption Framework (CAF) — Management Groups governance hierarchy, Hub-and-Spoke topology, Azure Firewall Premium with IDPS inspection, Azure Bastion Host, and forced tunneling route tables (UDR 0.0.0.0/0).
 
 ---
 
-### 🔁 [Enterprise Multi-Cloud CI/CD Pipeline Suite](https://github.com/anujsri192/azure-enterprise-terraform-modules)
-[![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)](https://github.com/anujsri192/azure-enterprise-terraform-modules) [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/anujsri192/azure-enterprise-terraform-modules) [![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://github.com/anujsri192/azure-enterprise-terraform-modules)
+### ⚖️ [Azure Enterprise Standard Load Balancers](https://github.com/anujsri192/azure-enterprise-load-balancer)
+[![Load Balancer](https://img.shields.io/badge/Standard%20Load%20Balancer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://github.com/anujsri192/azure-enterprise-load-balancer) [![Public & Internal](https://img.shields.io/badge/Public%20%26%20Internal%20Tiers-2EA44F?style=flat-square)](https://github.com/anujsri192/azure-enterprise-load-balancer) [![Outbound SNAT](https://img.shields.io/badge/Outbound%20SNAT%20Rules-7B42BC?style=flat-square)](https://github.com/anujsri192/azure-enterprise-load-balancer) [![Zone Redundant](https://img.shields.io/badge/Zone%20Redundant%201%2C2%2C3-FF6F00?style=flat-square)](https://github.com/anujsri192/azure-enterprise-load-balancer)
 
-> Modular, reusable pipeline templates implemented across Azure Pipelines, GitHub Actions, and GitLab CI. Features automated pre-commit gates, Trivy container vulnerability scanning, Checkov IaC security audits, SonarQube quality gates, and automated deployment promotion across Dev, UAT, and Production.
-
----
-
-### 🤖 [Agentic AI DevOps & Autonomous MCP Workflows](https://github.com/anujsri192/azure-enterprise-terraform-modules)
-[![Agentic AI](https://img.shields.io/badge/Agentic%20AI-7B61FF?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/anujsri192/azure-enterprise-terraform-modules) [![Model Context Protocol](https://img.shields.io/badge/Model%20Context%20Protocol-0A84FF?style=flat-square)](https://github.com/anujsri192/azure-enterprise-terraform-modules) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/anujsri192/azure-enterprise-terraform-modules)
-
-> Intelligent AI agents built using Python and the Model Context Protocol (MCP) — enabling autonomous cloud telemetry analysis, automated incident triage, pull request code security reviews, self-healing pipeline recovery, and private RAG knowledge retrieval protected by OWASP Top 10 for LLMs.
+> High-availability traffic distribution suite featuring Public Standard Load Balancers with zone-redundant IPs, HTTP/HTTPS health probes, and outbound SNAT rules alongside Internal Microservice Load Balancers with static private IP allocation.
 
 ---
 
-### 💰 [Cloud FinOps & Infrastructure Governance Toolkit](https://github.com/anujsri192/azure-enterprise-terraform-modules)
-[![Cloud FinOps](https://img.shields.io/badge/Cloud%20FinOps-00C853?style=for-the-badge&logo=googlecloud&logoColor=white)](https://github.com/anujsri192/azure-enterprise-terraform-modules) [![PowerShell & Python](https://img.shields.io/badge/Automation-5391FE?style=flat-square&logo=powershell&logoColor=white)](https://github.com/anujsri192/azure-enterprise-terraform-modules) [![Cost Optimization](https://img.shields.io/badge/Cost%20Arbitrage-FF6D00?style=flat-square)](https://github.com/anujsri192/azure-enterprise-terraform-modules)
+### 🌐 [Azure Traffic Manager & Global DNS Routing](https://github.com/anujsri192/azure-traffic-manager-dns)
+[![Traffic Manager](https://img.shields.io/badge/Traffic%20Manager-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://github.com/anujsri192/azure-traffic-manager-dns) [![Multi-Region DR](https://img.shields.io/badge/Multi--Region%20Disaster%20Recovery-00C853?style=flat-square)](https://github.com/anujsri192/azure-traffic-manager-dns) [![Priority Routing](https://img.shields.io/badge/Priority%20Routing%20Failover-7B42BC?style=flat-square)](https://github.com/anujsri192/azure-traffic-manager-dns) [![Global DNS](https://img.shields.io/badge/Global%20DNS%20SLA-FF6F00?style=flat-square)](https://github.com/anujsri192/azure-traffic-manager-dns)
 
-> Automated cloud cost optimization framework developed with Python and PowerShell Core — automated orphaned disk and unattached public IP reclamation, dynamic non-production VM start/stop schedules, Azure Advisor rightsizing automation, and interactive KQL spend analytics saving 35%+ cloud expenditure.
+> Global multi-region high-availability architecture utilizing Azure Traffic Manager. Implements automated priority-based failover between primary active region (East US) and secondary DR region (West Europe), with hybrid external endpoint fallbacks and continuous health probe monitoring.
+
+---
+
+### 🔒 [Azure Private Endpoints & Service Endpoints](https://github.com/anujsri192/azure-private-endpoints-service-endpoints)
+[![Private Endpoints](https://img.shields.io/badge/Private%20Endpoints-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://github.com/anujsri192/azure-private-endpoints-service-endpoints) [![Zero Trust](https://img.shields.io/badge/Zero--Trust%20PaaS%20Isolation-DC143C?style=flat-square)](https://github.com/anujsri192/azure-private-endpoints-service-endpoints) [![Private DNS](https://img.shields.io/badge/Private%20DNS%20Zones-2EA44F?style=flat-square)](https://github.com/anujsri192/azure-private-endpoints-service-endpoints) [![Service Endpoints](https://img.shields.io/badge/Optimized%20Service%20Endpoints-7B42BC?style=flat-square)](https://github.com/anujsri192/azure-private-endpoints-service-endpoints)
+
+> Zero-Trust PaaS connectivity framework disabling public internet access across enterprise services. Features Private Endpoints in dedicated subnets, split-horizon Private DNS Zones with automated VNet linking, and subnet Service Endpoints keeping data transit on the private Azure backbone.
 
 ---
 
