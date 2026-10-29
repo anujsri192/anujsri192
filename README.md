@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/anujsri192">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Lead+DevSecOps+Architect+%7C+Enterprise+Cloud;Azure+%7C+Terraform+%7C+Kubernetes;CI%2FCD+%7C+Azure+DevOps+%7C+GitHub+Actions;GitLab+CI+%7C+DevSecOps+%7C+GitOps;Python+%7C+PowerShell+%7C+Linux+Engineering;Zero-Trust+Landing+Zones+%7C+FinOps+Mastery;Build+%E2%86%92+Secure+%E2%86%92+Deploy+%E2%86%92+Automate"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=DevSecOps+Architect+%7C+Enterprise+Cloud;Azure+%7C+Terraform+%7C+Kubernetes;CI%2FCD+%7C+Azure+DevOps+%7C+GitHub+Actions;GitLab+CI+%7C+DevSecOps+%7C+GitOps;Python+%7C+PowerShell+%7C+Linux+Engineering;Zero-Trust+Landing+Zones+%7C+FinOps+Mastery;Build+%E2%86%92+Secure+%E2%86%92+Deploy+%E2%86%92+Automate"
       alt="DevSecOps & Enterprise Cloud Architect"
     />
   </a>
