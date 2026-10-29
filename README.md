@@ -196,19 +196,6 @@ Additionally, I actively architect **Agentic AI & GenAIOps** workflows — imple
 
 ---
 
-## 📜 Certifications
-
-- 🏅 **Microsoft Certified: DevOps Engineer Expert (AZ-400)**
-- 🏅 **Microsoft Certified: Azure Administrator Associate (AZ-104)**
-- 🏅 **Microsoft Certified: Azure Solutions Architect Expert (AZ-305)**
-- 🏅 **Microsoft Certified: Azure Security Engineer Associate (AZ-500)**
-- 🏅 **HashiCorp Certified: Terraform Associate**
-- 🏅 **Certified Kubernetes Administrator (CKA)**
-- 🏅 **Red Hat Certified System Administrator (RHCSA)**
-- 🏅 **Microsoft Certified: Azure AI Fundamentals (AI-900)**
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center"><b>Visitor's Count</b></p>
